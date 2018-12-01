@@ -15,9 +15,10 @@ program UnitTest;
 {$ENDIF}
 
 uses
-  DUnitTestRunner;
+  DUnitTestRunner,
+  UInvoiceController in 'domain\UInvoiceController.pas';
 
-{$R *.RES}
+{R *.RES}
 
 begin
   DUnitTestRunner.RunRegisteredTests;
