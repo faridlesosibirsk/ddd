@@ -16,7 +16,8 @@ program UnitTest;
 
 uses
   DUnitTestRunner,
-  UInvoiceController in 'domain\UInvoiceController.pas';
+  UClient in 'domain\UClient.pas',
+  UAddress in 'domain\UAddress.pas';
 
 {R *.RES}
 
