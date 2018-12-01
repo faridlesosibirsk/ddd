@@ -19,7 +19,12 @@ uses
   UClient in 'domain\UClient.pas',
   UAddress in 'domain\UAddress.pas',
   UName in 'domain\UName.pas',
-  UPhone in 'domain\UPhone.pas';
+  UPhone in 'domain\UPhone.pas',
+  UItem in 'domain\UItem.pas',
+  UMoney in 'domain\UMoney.pas',
+  ULineItem in 'domain\ULineItem.pas',
+  UInvoice in 'domain\UInvoice.pas',
+  UStatus in 'domain\UStatus.pas';
 
 {R *.RES}
 

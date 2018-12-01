@@ -15,7 +15,6 @@ type
   published
     constructor create(id: integer; name: string; address: address;
       phone: phone);
-
   end;
 
 implementation

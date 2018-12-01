@@ -85,6 +85,11 @@
 			<DCCReference Include="domain\UAddress.pas"/>
 			<DCCReference Include="domain\UName.pas"/>
 			<DCCReference Include="domain\UPhone.pas"/>
+			<DCCReference Include="domain\UItem.pas"/>
+			<DCCReference Include="domain\UMoney.pas"/>
+			<DCCReference Include="domain\ULineItem.pas"/>
+			<DCCReference Include="domain\UInvoice.pas"/>
+			<DCCReference Include="domain\UStatus.pas"/>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>
 				<CfgParent>Base</CfgParent>
