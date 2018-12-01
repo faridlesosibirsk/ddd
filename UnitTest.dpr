@@ -17,7 +17,9 @@ program UnitTest;
 uses
   DUnitTestRunner,
   UClient in 'domain\UClient.pas',
-  UAddress in 'domain\UAddress.pas';
+  UAddress in 'domain\UAddress.pas',
+  UName in 'domain\UName.pas',
+  UPhone in 'domain\UPhone.pas';
 
 {R *.RES}
 

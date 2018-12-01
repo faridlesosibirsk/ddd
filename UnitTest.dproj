@@ -83,6 +83,8 @@
 			</DelphiCompile>
 			<DCCReference Include="domain\UClient.pas"/>
 			<DCCReference Include="domain\UAddress.pas"/>
+			<DCCReference Include="domain\UName.pas"/>
+			<DCCReference Include="domain\UPhone.pas"/>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>
 				<CfgParent>Base</CfgParent>
